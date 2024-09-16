@@ -76,7 +76,7 @@ This project focuses on designing and building a smart rabbit cage equipped with
 
 ![Mockup1](img/maket1.jpg) <br/>
 
-![Mockup2](img/maker2.jpg) <br/>
+![Mockup2](img/maket2.jpg) <br/>
 
 ## Troubleshooting
 
